@@ -1,3 +1,3 @@
-# Hello World!
+# Hello Rubix Cube!
 
 Made By climbingg & BenP1236691
